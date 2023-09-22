@@ -2,4 +2,4 @@
 Basic Calculator App that I made from YouTube which uses the Python language with the Kivy framework.
 
 Result :
-![Screenshot](C:\Users\MyPC\Documents\Kevin\Python\calc\app.png)
+![Calc](https://github.com/kevidn/Calc/assets/115269741/3c613f34-45d9-456d-afc6-9be876dc3160)
